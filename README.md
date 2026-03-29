@@ -11,20 +11,28 @@ Not a dev. A growth operator who went full GenAI — building with agents, promp
 ## What I work on
 
 - 🧠 **Second brain architecture** — context files, memory layers, and structured profiles that make agents actually useful across sessions
-- 🤖 **Augmented agents** — Claude / GPT / Dust agents grounded in personal and professional context
+- 🌐 **Augmented agents** — Claude / GPT / Dust agents grounded in personal and professional context
 - ⚙️ **Agent orchestration** — multi-step pipelines with N8N, Claude, and GPT connecting tools, APIs, and data sources
 - 📊 **Growth ops** — tracking stacks (Rudderstack, Mixpanel), funnel analytics, PLG instrumentation
 - ⚡ **Fast prototyping** — shipping functional AI products with v0, Lovable, Bolt and prompt engineering
 
 ---
 
-## About Me
+## Currently
 
-- 🚀 Head of Product, Growth & Marketing at **SafeCube (a Sinay Brand)** — scaled a maritime SaaS PLG product from 100 to 50k+ active users in under 6 months
-- 📈 13+ years in digital acquisition — SEO/SEA, conversion, tracking, product analytics
-- 🛠️ Operator-builder hybrid — I run growth strategies and ship the AI tools to execute them, solo if needed
-- 🌊 Background in maritime tech SaaS (Sinay) and industrial B2B e-commerce (Legallais)
-- 📍 Based in Caen, France
+- 🔧 Building agentic implementation projects with [@cedricdriaux](https://github.com/fyher) — from audit to production for SaaS & scale-ups → [fyher.com](https://fyher.com)
+- 🧪 Running my own multi-agent stack daily: 9 specialized agents, persistent markdown memory, Git + MCP, Supabase coordination bus
+- 🏨 Shipping [ScanStay](https://scanstay.app) — multilingual AI concierge for vacation rentals
+
+---
+
+## Background
+
+- 13+ years in digital acquisition — SEO/SEA, conversion, tracking, product analytics
+- Scaled SafeCube (a Sinay brand) from 100 to 50k+ active users in under 6 months — maritime SaaS PLG
+- Deployed ~30 Dust agents in production at Sinay — bid management orchestration, 24/7 automated workflows
+- Operator-builder hybrid: I run growth strategies and ship the AI tools to execute them, solo if needed
+- Based in Caen, France
 
 ---
 
